@@ -42,7 +42,7 @@ app.cfg = {
 					name: "tab-default-1",
 					// Group of matching theme across layout
 					group: "default",
-					themeMajor: "white",
+					themeMajor: "blue",
 					// Header background
 					header: "#283239",
 					// Header title
@@ -52,7 +52,7 @@ app.cfg = {
 					// Main Panel background
 					panel: "#DBD9DA",
 					// Description text
-					text: "#000000",
+					text: "red",
 					// Description link
 					textLink: "#555555",
 					// Media background
